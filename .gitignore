@@ -30,3 +30,16 @@
 *.exe
 *.out
 *.app
+*.vsidx
+
+# Directories
+bin/
+Saved/
+Intermediate/
+DerivedDataCache/
+DesignTimeBuild/
+v17/
+Binaries/
+
+# Logs
+.vsconfig
