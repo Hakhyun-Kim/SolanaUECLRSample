@@ -1,0 +1,6 @@
+C:\work\github\SolanaUECLRSample\Plugins\Solana SDK\SolanaKit\Source\obj\Debug\net6.0\Unreal Solana SDK.csproj.AssemblyReference.cache
+C:\work\github\SolanaUECLRSample\Plugins\Solana SDK\SolanaKit\Source\obj\Debug\net6.0\Unreal Solana SDK.GeneratedMSBuildEditorConfig.editorconfig
+C:\work\github\SolanaUECLRSample\Plugins\Solana SDK\SolanaKit\Source\obj\Debug\net6.0\Unreal Solana SDK.AssemblyInfoInputs.cache
+C:\work\github\SolanaUECLRSample\Plugins\Solana SDK\SolanaKit\Source\obj\Debug\net6.0\Unreal Solana SDK.AssemblyInfo.cs
+C:\work\github\SolanaUECLRSample\Plugins\Solana SDK\SolanaKit\Source\obj\Debug\net6.0\Unreal Solana SDK.csproj.CoreCompileInputs.cache
+C:\work\github\SolanaUECLRSample\Plugins\Solana SDK\SolanaKit\Source\obj\Debug\net6.0\Unreal Solana SDK.sourcelink.json
